@@ -1,0 +1,23 @@
+table{
+border:3px solid black;
+border-collapse:collapse;
+width:50%;
+}
+*{
+text-align:center;
+}
+#td1{
+background-color:pink;
+}
+#td2{
+background-color:yellow;
+}
+#td3{
+background-color:yellow;
+}
+#td6{
+background-color:pink;
+}
+#td7{
+background-color:orange;
+}

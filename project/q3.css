@@ -1,0 +1,24 @@
+th,td{
+border:1px solid black;
+}
+th {
+background-color:darkgrey;
+color:white;
+}
+#td1{
+background-color:lightgreen;
+}
+#td2{
+background-color:lightblue;
+}
+#td3{
+background-color:lightgreen;
+}
+#td4{
+background-color:lightblue;
+}
+*{
+padding:10px;
+text-align:center;
+}
+
