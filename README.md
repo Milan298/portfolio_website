@@ -12,17 +12,17 @@ Welcome to the personal portfolio website of **Milan A**, a B.Tech Computer Scie
 ├── style.css           # External stylesheet for the entire website
 ├── img/                # Folder containing all images used (profile, icons, project previews)
 │   └── 1.png
-│   └── 123.png
 │   └── 2.png
 │   └── 3.png
 │   └── 4.png
-│   └── Python-logo-notext.svg (1).png
-│   └── download (1).png
+│   └── milan.png
 │   └── images (2).png
 │   └── images (3).png
+│   └── download (1).png
 │   └── milan-banner.jpg
-│   └── milan.png
 │   └──team-section-home.jpg
+│   └── Python-logo-notext.svg (1).png
+│   └── Screenshot_20250401_002924_WhatsApp (2).jpg
 
 ├── project/            # Folder containing individual HTML files for each portfolio project
 │   └── q1.html
